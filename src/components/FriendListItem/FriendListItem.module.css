@@ -1,0 +1,15 @@
+.avatar {
+  width: 100%;
+}
+
+.status {
+  font-size: 14px;
+}
+
+.online {
+  color: chartreuse;
+}
+
+.offline {
+  color: crimson;
+}
